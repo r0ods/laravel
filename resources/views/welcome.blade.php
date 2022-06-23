@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus aperiam eveniet laboriosam architecto nulla? Facere minus blanditiis ea illum nemo libero repellat ut, at dolores voluptas culpa quasi obcaecati iusto!
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
+                                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, eaque doloribus! Libero totam veniam repudiandae doloribus voluptatem rem dolorum atque quis nulla, necessitatibus nam beatae autem! Natus ipsam repellat temporibus?
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos modi, delectus nemo ullam aut vel tempore adipisci laborum, assumenda veritatis labore eveniet consequuntur culpa! Maxime quasi perferendis dolorum placeat illo.
                                 </div>
                             </div>
                         </div>
